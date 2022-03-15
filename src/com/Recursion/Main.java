@@ -9,6 +9,7 @@ public class Main  {
         Treenode<Integer> node3 = new Treenode<>(9);
         Treenode<Integer> node4 = new Treenode<>(6);
         Treenode<Integer> node5 = new Treenode<>(7);
+        // root node has three children.
         root.children.add(node1);
         root.children.add(node2);
         root.children.add(node3);
