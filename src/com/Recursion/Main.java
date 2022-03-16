@@ -13,6 +13,7 @@ public class Main  {
         root.children.add(node1);
         root.children.add(node2);
         root.children.add(node3);
+        // node3 had two children
         node3.children.add(node4);
         node3.children.add(node4);
         System.out.println();
