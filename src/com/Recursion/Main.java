@@ -1,9 +1,9 @@
 package com.Recursion;
 import java.util.ArrayList;
 
-public class Main  {
+public class Main {
     public static void main(String[] args) {
-        Treenode<Integer> root = new Treenode<>(4);
+        Treenode<Integer> root =  new Treenode<>(4);
         Treenode<Integer> node1 = new Treenode<>(2);
         Treenode<Integer> node2 = new Treenode<>(3);
         Treenode<Integer> node3 = new Treenode<>(9);
